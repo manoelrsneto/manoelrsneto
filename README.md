@@ -4,7 +4,7 @@
 <p>QA Engineer @ <a href='https://www.avenuecode.com.br/'>Avenue Code</a> 
 Totally in love with javascript and python ecosystems.</p>
 
-[![Linkedin: manoel-neto]https://img.shields.io/badge/-Manoel%20Neto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoel-neto/)](https://www.linkedin.com/in/manoel-neto/)
+[![Linkedin: manoel-neto](https://img.shields.io/badge/-Manoel%20Neto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoel-neto/)](https://www.linkedin.com/in/manoel-neto/)
 [![GitHub Manoel](https://img.shields.io/github/followers/manoelrsneto?label=follow&style=social)](https://github.com/manoelrsneto)
 
 A little bit about myself:

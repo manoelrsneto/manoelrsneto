@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hello there, I'm Manoel Neto! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img align='right' src="https://i.imgur.com/hU8J67I.png" width="230">
 
-<!--
-**manoelrsneto/manoelrsneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+QA Engineer @ [Avenue Code](https://www.avenuecode.com.br/)  
+Totally in love with javascript and python ecosystems.  
+![GitHub followers](https://img.shields.io/github/followers/manoelrsneto?style=social)
+[![Linkedin: manoel-neto](https://img.shields.io/badge/-Manoel%20Neto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoel-neto/)](https://www.linkedin.com/in/manoel-neto/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A little bit about myself:
+ ```ts
+ export class ManoelNeto {
+    nationality: string = 'Brazilian'
+    hobbies: string[] = ['Read', 'Listen to music', 'Watch horror movies', 'Games']
+    languages: Record<string, string>[] = [{ 'Portuguese': 'Native' }, { 'English': 'Advanced Professional Proficiency' }]
+    progLanguages: string[] = ['JavaScript', 'TypeScript', 'Python', 'HTML5', 'CSS3']
+    devFrameworks: string[] = ['React', 'Express', 'Flask']
+    testFrameworks: string[] = ['Robot', 'Cypress', 'Webdriver.io', 'Jest']
+    os: string[] = ['MacOS', 'Linux', 'Windows']
+    container: string = 'Docker'
+    learning: string[] = ['Vue', 'Django', 'go']
+    
+ }
+ ```
+ 
+ Please, feel free to reach me out, I love to meet new people!

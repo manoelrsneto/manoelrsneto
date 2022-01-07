@@ -1,21 +1,10 @@
-<h3>Hello there, I'm Manoel Neto! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
-<p>I'm a Software Quality Assurance Engineer totally in love with the idea of building incredible products using the best practices of the software testing area.</p>
+### Hello there, I'm Manoel Neto! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#### I'm a Software Quality Assurance Engineer working on Salvador, Brazil.
 
-[![Linkedin: manoel-neto](https://img.shields.io/badge/-Manoel%20Neto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoel-neto/)](https://www.linkedin.com/in/manoel-neto/)
-[![GitHub Manoel](https://img.shields.io/github/followers/manoelrsneto?label=follow&style=social)](https://github.com/manoelrsneto)
-
-A little bit about myself:
- ```ts
- export class ManoelNeto {
-    nationality: string = 'Brazilian'
-    hobbies: string[] = ['Read', 'Listen to music', 'Watch horror movies', 'Games']
-    languages: Record<string, string>[] = [{ 'Portuguese': 'Native' }, { 'English': 'Advanced Professional Proficiency' }]
-    progLanguages: string[] = ['JavaScript', 'TypeScript', 'Python', 'HTML5', 'CSS3']
-    devFrameworks: string[] = ['React', 'Express', 'Flask']
-    testFrameworks: string[] = ['Robot', 'Cypress', 'Webdriver.io', 'Jest']
-    os: string[] = ['MacOS', 'Linux', 'Windows']
-    container: string = 'Docker'
- }
- ```
- 
- Please, feel free to reach me out, I love to meet new people!
+#### BIO
+- 🏢 I'm currently working on [**@betrybe**](https://www.betrybe.com/)
+- ☕ Mostly turning coffee into code with: `.js` and `.py`
+- ⚙️ I'm specialist on the following technologies: [Cypress](https://www.cypress.io/), [Webdriverio](https://webdriver.io/), [Robot Framework](https://robotframework.org/) and [Appium](https://appium.io/)
+- ⚡️ Concepts that I'm really used to work: agile development/testing, containers, CI/CD and much more!
+- 💭 Ping me about: **quality assurance**, **software testing strategies**, **leadership** and **test architecture**
+- 📬 Reach me out on: [Linkedin](https://www.linkedin.com/in/manoel-neto/)

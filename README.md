@@ -1,4 +1,4 @@
-### Hello there, I'm Manoel Neto! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello there, I'm Manoel Neto! 👋
 #### I'm a Software Quality Assurance Engineer working on Salvador, Brazil.
 
 #### BIO

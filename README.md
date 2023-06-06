@@ -2,7 +2,6 @@
 #### I'm a Software Quality Assurance Engineer working on Salvador, Brazil.
 
 #### BIO
-- 🏢 I'm currently working on [**@betrybe**](https://www.betrybe.com/)
 - ☕ Mostly turning coffee into code with: `.js` and `.py`
 - ⚙️ I'm specialist on the following technologies: [Cypress](https://www.cypress.io/), [Webdriverio](https://webdriver.io/), [Robot Framework](https://robotframework.org/) and [Appium](https://appium.io/)
 - ⚡️ Concepts that I'm really used to work: agile development/testing, containers, CI/CD and much more!

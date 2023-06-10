@@ -1,5 +1,5 @@
 ### Hello there, I'm Manoel Neto! 👋
-#### I'm a Software Quality Assurance Engineer working on Salvador, Brazil.
+#### I'm a Senior Software Quality Assurance Engineer working on Salvador, Brazil.
 
 #### BIO
 - ☕ Mostly turning coffee into code with: `.js` and `.py`
